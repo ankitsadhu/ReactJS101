@@ -1,0 +1,52 @@
+.site_header_util {
+    margin-left: auto;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.golabal_nav {
+    display: flex;
+}
+
+.global_nav_content {
+    display: flex;
+}
+
+.main_navigation_list {
+    display: flex;
+    gap: 1rem;
+}
+
+ul.main_navigation_list li {
+    list-style: none;
+}
+
+ul.main_navigation_list li a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+header.Header_golabal_nav {
+    font-family: apercu-regular-pro,Roboto,sans-serif!important;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+button#btn_show-turbine {
+    background: white;
+    border: white;
+}
+
+.site-header__logo {
+    margin: 0;
+    padding: 0;
+    max-height: 54px;
+}
+
+.site-header-util--item button {
+    background: white;
+    border: white;
+}
